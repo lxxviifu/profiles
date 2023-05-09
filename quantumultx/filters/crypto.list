@@ -1,15 +1,45 @@
-HOST-SUFFIX,binance.cc, PROXY
-HOST-SUFFIX,binance.cloud,PROXY
-HOST-SUFFIX,binance.co,PROXY
-HOST-SUFFIX,binance.com,PROXY
-HOST-SUFFIX,binance.me,PROXY
-HOST-SUFFIX,binance.org,PROXY
-HOST-SUFFIX,binance.us,PROXY
-HOST-SUFFIX,binanceapi.com,PROXY
-HOST-SUFFIX,binanceru.net,PROXY
-HOST-SUFFIX,binancecnt.com,PROXY
-HOST-SUFFIX,yingwangtech.net,PROXY
-HOST-SUFFIX,log.bntrace.com,PROXY
+HOST-SUFFIX,binance.cc,Indo-Pacific
+HOST-SUFFIX,binance.cloud,Indo-Pacific
+HOST-SUFFIX,binance.co,Indo-Pacific
+
+HOST-SUFFIX,binance.com,Indo-Pacific
+HOST-SUFFIX,binance.me,Indo-Pacific
+HOST-SUFFIX,binance.org,Indo-Pacific
+HOST-SUFFIX,binance.us,Indo-Pacific
+HOST-SUFFIX,binanceapi.com,Indo-Pacific
+HOST-SUFFIX,binanceru.net,Indo-Pacific
+HOST-SUFFIX,binancecnt.com,Indo-Pacific
+HOST-SUFFIX,yingwangtech.net,Indo-Pacific
+HOST-SUFFIX,log.bntrace.com,Indo-Pacific
 
 
+DOMAIN-SUFFIX,aex.com,PROXY
+DOMAIN-SUFFIX,bibox.com,PROXY
+DOMAIN-SUFFIX,bitcointalk.org,PROXY
+DOMAIN-SUFFIX,bitfinex.com,PROXY
+DOMAIN-SUFFIX,bithumb.com,PROXY
+DOMAIN-SUFFIX,bitmex.com,PROXY
+DOMAIN-SUFFIX,bitstamp.net,PROXY
+DOMAIN-SUFFIX,bittrex.com,PROXY
+DOMAIN-SUFFIX,bybit.com,PROXY
+DOMAIN-SUFFIX,coinbase.com,PROXY
+DOMAIN-SUFFIX,coincheck.com,PROXY
+DOMAIN-SUFFIX,coingecko.com,PROXY
+DOMAIN-SUFFIX,coinmarketcap.com,PROXY
+DOMAIN-SUFFIX,coinone.co.kr,PROXY
+DOMAIN-SUFFIX,etherscan.io,PROXY
+DOMAIN-SUFFIX,ftx.com,PROXY
+DOMAIN-SUFFIX,gate.io,PROXY
+DOMAIN-SUFFIX,gemini.com,PROXY
+DOMAIN-SUFFIX,huobi.com,PROXY
+DOMAIN-SUFFIX,korbit.co.kr,PROXY
+DOMAIN-SUFFIX,kraken.com,PROXY
+DOMAIN-SUFFIX,kucoin.com,PROXY
+DOMAIN-SUFFIX,liquid.com,PROXY
+DOMAIN-SUFFIX,okex.com,PROXY
+DOMAIN-SUFFIX,okx.com,PROXY
+DOMAIN-SUFFIX,poloniex.com,PROXY
+DOMAIN-SUFFIX,sushi.com,PROXY
+DOMAIN-SUFFIX,uniswap.org,PROXY
+DOMAIN-SUFFIX,zb.com,PROXY
 
