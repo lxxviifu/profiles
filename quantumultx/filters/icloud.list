@@ -1,7 +1,7 @@
 # Apple Icloud
 DOMAIN-SUFFIX,apple-cloudkit.com,Apple
-DOMAIN-SUFFIX,apple-livephotoskit.com,Apple
-DOMAIN-SUFFIX,cdn-apple.com,Apple
+#DOMAIN-SUFFIX,apple-livephotoskit.com,Apple
+#DOMAIN-SUFFIX,cdn-apple.com,Apple
 DOMAIN-SUFFIX,icloud.com,Apple
 DOMAIN-SUFFIX,icloud.com.cn,Apple
 DOMAIN-SUFFIX,icloud-content.com,Apple
