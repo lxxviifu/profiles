@@ -1,9 +1,15 @@
-DOMAIN-SUFFIX,binance.cc,PROXY
-DOMAIN-SUFFIX,binance.cloud,PROXY
-DOMAIN-SUFFIX,binance.co,PROXY
-DOMAIN-SUFFIX,binance.com,PROXY
-DOMAIN-SUFFIX,binance.me,PROXY
-DOMAIN-SUFFIX,binance.org,PROXY
-DOMAIN-SUFFIX,binance.us,PROXY
-DOMAIN-SUFFIX,binanceapi.com,PROXY
-DOMAIN-SUFFIX,binanceru.net,PROXY
+HOST-SUFFIX,binance.cc, PROXY
+HOST-SUFFIX,binance.cloud,PROXY
+HOST-SUFFIX,binance.co,PROXY
+HOST-SUFFIX,binance.com,PROXY
+HOST-SUFFIX,binance.me,PROXY
+HOST-SUFFIX,binance.org,PROXY
+HOST-SUFFIX,binance.us,PROXY
+HOST-SUFFIX,binanceapi.com,PROXY
+HOST-SUFFIX,binanceru.net,PROXY
+HOST-SUFFIX,binancecnt.com,PROXY
+HOST-SUFFIX,yingwangtech.net,PROXY
+HOST-SUFFIX,log.bntrace.com,PROXY
+
+
+
