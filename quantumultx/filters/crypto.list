@@ -1,7 +1,11 @@
 HOST-SUFFIX,binance.cc,Indo-Pacific
 HOST-SUFFIX,binance.cloud,Indo-Pacific
 HOST-SUFFIX,binance.co,Indo-Pacific
-
+domain:binance.me,Indo-Pacific
+domain:binance.com,Indo-Pacific
+domain:bnbstatic.com,Indo-Pacific
+domain:bntrace.com,Indo-Pacific
+domain:saasexch.com,Indo-Pacific
 HOST-SUFFIX,binance.com,Indo-Pacific
 HOST-SUFFIX,binance.me,Indo-Pacific
 HOST-SUFFIX,binance.org,Indo-Pacific
@@ -14,15 +18,15 @@ HOST-SUFFIX,yingwangtech.net,Indo-Pacific
 HOST-SUFFIX,log.bntrace.com,Indo-Pacific
 
 
-DOMAIN-SUFFIX,aex.com,PROXY
-DOMAIN-SUFFIX,bibox.com,PROXY
-DOMAIN-SUFFIX,bitcointalk.org,PROXY
-DOMAIN-SUFFIX,bitfinex.com,PROXY
-DOMAIN-SUFFIX,bithumb.com,PROXY
-DOMAIN-SUFFIX,bitmex.com,PROXY
+DOMAIN-SUFFIX,aex.com,Indo-Pacific
+DOMAIN-SUFFIX,bibox.com,Indo-Pacific
+DOMAIN-SUFFIX,bitcointalk.org,Indo-Pacific
+DOMAIN-SUFFIX,bitfinex.com,Indo-Pacific
+DOMAIN-SUFFIX,bithumb.com,Indo-Pacific
+DOMAIN-SUFFIX,bitmex.com,Indo-Pacific
 DOMAIN-SUFFIX,bitstamp.net,PROXY
-DOMAIN-SUFFIX,bittrex.com,PROXY
-DOMAIN-SUFFIX,bybit.com,PROXY
+DOMAIN-SUFFIX,bittrex.com,Indo-Pacific
+DOMAIN-SUFFIX,bybit.com,Indo-Pacific
 DOMAIN-SUFFIX,coinbase.com,PROXY
 DOMAIN-SUFFIX,coincheck.com,PROXY
 DOMAIN-SUFFIX,coingecko.com,PROXY
